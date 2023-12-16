@@ -7,7 +7,7 @@
 A combination of:
 * [The Best Theme](https://github.com/jankohlbach/The-Best-Theme)
 * The VSCode Quiet Light Theme
-* An aged paper color thats easy on the eyes
+* An aged paper color that's easy on the eyes
 
 <br>
 
